@@ -1,0 +1,15 @@
+D:\lab_3\lab_3\bin\Debug\net6.0\lab_3.exe
+D:\lab_3\lab_3\bin\Debug\net6.0\lab_3.deps.json
+D:\lab_3\lab_3\bin\Debug\net6.0\lab_3.runtimeconfig.json
+D:\lab_3\lab_3\bin\Debug\net6.0\lab_3.dll
+D:\lab_3\lab_3\bin\Debug\net6.0\lab_3.pdb
+D:\lab_3\lab_3\obj\Debug\net6.0\lab_3.csproj.AssemblyReference.cache
+D:\lab_3\lab_3\obj\Debug\net6.0\lab_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab_3\lab_3\obj\Debug\net6.0\lab_3.AssemblyInfoInputs.cache
+D:\lab_3\lab_3\obj\Debug\net6.0\lab_3.AssemblyInfo.cs
+D:\lab_3\lab_3\obj\Debug\net6.0\lab_3.csproj.CoreCompileInputs.cache
+D:\lab_3\lab_3\obj\Debug\net6.0\lab_3.dll
+D:\lab_3\lab_3\obj\Debug\net6.0\refint\lab_3.dll
+D:\lab_3\lab_3\obj\Debug\net6.0\lab_3.pdb
+D:\lab_3\lab_3\obj\Debug\net6.0\lab_3.genruntimeconfig.cache
+D:\lab_3\lab_3\obj\Debug\net6.0\ref\lab_3.dll
